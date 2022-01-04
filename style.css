@@ -386,7 +386,7 @@ footer {
     color: #272a31;
     padding: 0 25px;
   }
-  
+
   .nav-links li:nth-child(6) {
     border: 3px solid #ec5242;
     text-decoration: none;
@@ -394,7 +394,7 @@ footer {
     background-color: #fff;
     padding: 0 0 2px;
   }
-  
+
   .navbar {
     display: flex;
     flex-direction: row;
@@ -445,12 +445,13 @@ footer {
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 15px;
   }
-  
+
   .sponsor-logo {
     display: flex;
     flex-direction: row;
     justify-content: center;
     flex-wrap: wrap;
+
     /* margin: 0 100px; */
   }
 
