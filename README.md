@@ -15,7 +15,7 @@
 - JAVASCRIPT
 
 ## Live Demo
-[Live Demo Link](https://devtiwo.github.io/Capstone-1/)
+[Live Demo Link](https://devtiwo.github.io/Capstone-1/index.html)
 
 ## Getting Started
 - clone the repository by running\
