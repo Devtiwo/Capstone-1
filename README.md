@@ -5,7 +5,7 @@
 
 > This project is a tech conference website that is aimed at bringing developers from all around the globe together. Users will be able to view the date and location of the event, access guest speaker's informaton and get information about upcoming events.
 
-![screenshot](images/capstone.PNG)
+![screenshot](images/capstone.png)
 
 
 ## Built With
@@ -38,7 +38,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Devtiwo/Capstone-1/issues).
 
 ## Show your support
 

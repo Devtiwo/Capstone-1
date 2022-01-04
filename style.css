@@ -154,7 +154,9 @@ article .intro-txt {
 
 .intro h3 {
   color: #272a31;
-  font-size: 20px;
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 5px;
 }
 
 /* PROGRAM SECTION STYLES */
@@ -191,11 +193,11 @@ article .intro-txt {
 .card {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
-  margin: 10px 0;
+  margin: 5px 0;
   background-color: rgba(255, 255, 255, 0.1);
-  padding: 10px 15px;
+  padding: 10px;
 }
 
 .card h3 {
@@ -376,7 +378,7 @@ footer {
 
   .nav-links {
     display: flex;
-    margin-left: 18%;
+    margin-left: 10%;
   }
 
   .nav-links a {
@@ -384,7 +386,15 @@ footer {
     color: #272a31;
     padding: 0 25px;
   }
-
+  
+  .nav-links li:nth-child(6) {
+    border: 3px solid #ec5242;
+    text-decoration: none;
+    color: #272a31;
+    background-color: #fff;
+    padding: 0 0 2px;
+  }
+  
   .navbar {
     display: flex;
     flex-direction: row;
@@ -409,9 +419,9 @@ footer {
   .program-card .card {
     display: block;
     text-align: center;
-    margin: 15px;
-    width: 100%;
-    padding: 15px 10px;
+    margin: 3px;
+    width: 80%;
+    padding: 10px 5px;
   }
 
   .card h3 {
@@ -434,5 +444,17 @@ footer {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 15px;
+  }
+  
+  .sponsor-logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    /* margin: 0 100px; */
+  }
+
+  .sponsor-logo img {
+    width: 60%;
   }
 }

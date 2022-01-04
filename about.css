@@ -113,12 +113,20 @@ article .about-txt {
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
-  margin: 40px 0;
+  margin: 40px;
 }
 
 .event-card {
   position: relative;
   margin: 10px 0;
+  width: 22rem;
+  height: 12rem;
+  overflow: hidden;
+}
+
+.event-card img {
+  width: 100%;
+  height: 100%;
 }
 
 .event-card::before {
@@ -161,8 +169,12 @@ article .about-txt {
   .event-img {
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     margin: 40px 0;
+  }
+  
+  .event-card {
+    margin: 10px;
   }
 }

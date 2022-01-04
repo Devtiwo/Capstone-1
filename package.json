@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Devtiwo/Capstone-1/issues"
   },
-  "homepage": "https://github.com/Devtiwo/Capstone-1#readme",
+  "homepage": "https://github.com/Devtiwo/Capstone-1/index.html",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
